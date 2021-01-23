@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "debounce": "^1.2.0",
+    "mxgraph": "^4.2.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
