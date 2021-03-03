@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <graph-wrap/>
+    <graph/>
   </div>
 </template>
 
 <script>
-import GraphWrap from "./components/GraphWrap";
+import Graph from "./components/Graph";
 
 export default {
   name: 'App',
   components: {
-    GraphWrap
+    Graph
   }
 }
 </script>
